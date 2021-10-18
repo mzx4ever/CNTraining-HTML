@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20394e89-d6e3-4763-8b95-9ae4aeeb3b80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/02-html/02-html.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02-html/02-html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02-html/mockup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02-html/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02-html/mazhexu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/02-html/02-html.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
